@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![XinLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielXLee&theme=cobalt&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielXLee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on application lifecycle manager for multi/hybird k8s cluster
 - 🌱 I’m currently learning k8s, edge, redis ...
